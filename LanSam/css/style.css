@@ -1,0 +1,160 @@
+#all__content {
+    width: 1300px;
+    margin: 0 auto;
+    background-image: url(../img/bgc_all.png);
+}
+
+.clear{
+    clear: both;
+}
+
+.header__container {
+    width: 1300px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: #80d4e9;
+    border: 1px solid black;
+}
+
+.nav__menu {
+    width: 1300px;
+    height: 50px;
+    margin: 10px auto;
+    background-color: #80d4e9;
+    border: 1px solid black;
+}
+
+.main__contant {
+    width: 60%;
+    height: 500px;
+    margin-bottom: 10px;
+    float: left;
+    background-color: #1c6577;
+    border: 1px solid black;
+}
+
+.aside__container {
+    width: 39%;
+    height: 500px;
+    margin-bottom: 10px;
+    float: right;
+    background-color: #1c6577;
+    border: 1px solid black;
+}
+
+.footer__container {
+    width: 1300px;
+    height: 100px;
+    margin: 0px auto;
+    background-color: #80d4e9;
+    border: 1px solid black;
+}
+
+.header__left {
+    display: flex;
+    justify-content: space-between;
+    float: left;
+}
+
+.header__left img {
+    width: 90px;
+    height: 50px;
+    padding: 20px 0;
+}
+
+.header__left p {
+    padding: 23px 10px;
+}
+
+.header__right {
+    padding-top: 8px;
+    padding-right: 50px;
+    float: right;
+}
+
+a {
+    text-decoration: none;
+    color: #041a30;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+menu {
+    text-align: center;
+}
+
+menu li {
+    list-style: none;
+    display: inline;
+    padding-right: 100px;
+}
+
+main img {
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+main h2 {
+    margin-left: 20px;
+}
+
+p {
+    margin-left: 20px;
+}
+
+.center {
+    display: block;
+    width: 75%;
+    height: 40%;
+    margin: 0 auto;
+}
+
+.info__left {
+    float: left;
+}
+
+.info__right {
+    float: right;
+    padding-right: 50px;
+}
+
+.info__right img {
+    width: 20px;
+    height: 20px;
+    padding-left: 23px;
+}
+
+.main__blog {
+    width: 1300px;
+    height: 500px;
+    margin-bottom: 10px;
+    background-color: #1c6577;
+    border: 1px solid black;
+}
+
+.main__blog img {
+    width: 500px;
+    height: 300px;
+}
+
+.blog__left {
+    width: 550px;
+    float: left;
+}
+
+.blog__left h1 {
+    display: block;
+}
+
+.blog__right {
+    width: 550px;
+    float: right;
+}
+
